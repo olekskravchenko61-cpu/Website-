@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Oleksandr Kravchenko — Webentwickler für moderne Websites",
+    "description": "Moderne, schnelle und professionelle Websites für Unternehmen, Restaurants und Selbstständige. Individuelle Angebote ab 80 €."
+  },
+  "nav": {
+    "home": "Start",
+    "services": "Leistungen",
+    "pricing": "Preise",
+    "about": "Über mich",
+    "portfolio": "Portfolio",
+    "contact": "Kontakt",
+    "cta": "Projekt anfragen"
+  },
+  "hero": {
+    "eyebrow": "Webentwicklung mit Fokus auf Qualität",
+    "headlineLine1": "Moderne Websites,",
+    "headlineLine2": "die dein Business weiterbringen.",
+    "subtext": "Ich entwickle moderne, schnelle und professionelle Websites für Unternehmen, Restaurants und Selbstständige.",
+    "ctaPrimary": "Projekt anfragen",
+    "ctaSecondary": "Meine Leistungen",
+    "tag1": "Responsive Design",
+    "tag2": "Schnelle Ladezeiten",
+    "tag3": "Individuelle Umsetzung"
+  },
+  "services": {
+    "eyebrow": "Leistungen",
+    "title": "Was ich für dich entwickle",
+    "subtitle": "Maßgeschneiderte Weblösungen – von der einfachen Landingpage bis zum vollständigen Online-Shop.",
+    "business": {
+      "title": "Business-Websites",
+      "desc": "Professionelle Websites für Unternehmen und kleine Betriebe, die Vertrauen schaffen und Kunden überzeugen."
+    },
+    "landing": {
+      "title": "Landingpages",
+      "desc": "Moderne Landingpages, die gezielt auf Anfragen und Conversions ausgelegt sind."
+    },
+    "restaurant": {
+      "title": "Websites für Restaurants",
+      "desc": "Websites für Restaurants, Cafés und lokale Betriebe – inklusive Speisekarte und Kontaktangaben."
+    },
+    "shop": {
+      "title": "Online-Shops",
+      "desc": "Moderne E-Commerce-Websites für den erfolgreichen Verkauf deiner Produkte."
+    }
+  },
+  "pricing": {
+    "eyebrow": "Preise",
+    "title": "Transparent und fair",
+    "subtitle": "Websites ab 80 € – individuelle Preise je nach Projektumfang und Komplexität. Der endgültige Preis ist verhandelbar.",
+    "note": "Jedes Projekt ist einzigartig. Nach einem kurzen Gespräch über deine Anforderungen erhältst du ein individuelles, unverbindliches Angebot.",
+    "basic": {
+      "name": "Basic",
+      "price": "ab 80 €",
+      "desc": "Ideal für einen einfachen Online-Auftritt mit einer Seite.",
+      "features": ["Einseitige Website", "Responsives Design", "Kontaktformular", "Grundlegende SEO-Einrichtung"]
+    },
+    "business": {
+      "name": "Business",
+      "price": "Individueller Preis",
+      "desc": "Für Unternehmen mit mehreren Seiten und erweiterten Funktionen.",
+      "features": ["Mehrseitige Website", "Individuelles Design", "Mehrsprachigkeit möglich", "Erweiterte Funktionen nach Bedarf"]
+    },
+    "custom": {
+      "name": "Custom",
+      "price": "Individuelles Angebot",
+      "desc": "Für komplexe Projekte wie Online-Shops oder individuelle Anwendungen.",
+      "features": ["Online-Shop oder Web-App", "Maßgeschneiderte Funktionen", "Skalierbare Architektur", "Persönliche Beratung"]
+    },
+    "cta": "Angebot anfordern",
+    "popular": "Beliebt"
+  },
+  "about": {
+    "eyebrow": "Über mich",
+    "title": "Wer ich bin",
+    "text": "Ich bin Oleksandr Kravchenko und beschäftige mich mit der Entwicklung moderner Websites. Mein Ziel ist es, Unternehmen und Selbstständigen dabei zu helfen, online professionell aufzutreten.",
+    "point1": { "title": "Moderne Technologien", "desc": "Ich arbeite mit aktuellen Werkzeugen und Technologien der Webentwicklung." },
+    "point2": { "title": "Liebe zum Detail", "desc": "Jedes Detail zählt – von der Struktur bis zum letzten Pixel." },
+    "point3": { "title": "Individueller Ansatz", "desc": "Jedes Projekt wird individuell geplant und umgesetzt." },
+    "point4": { "title": "Stetige Weiterentwicklung", "desc": "Ich bilde mich kontinuierlich weiter, um stets aktuelle Lösungen anzubieten." }
+  },
+  "portfolio": {
+    "eyebrow": "Portfolio",
+    "title": "Ausgewählte Projekte",
+    "subtitle": "Hier werden zukünftig Projekte vorgestellt, an denen ich gearbeitet habe.",
+    "emptyTitle": "Neue Projekte folgen in Kürze.",
+    "emptyText": "Ich arbeite aktuell an meinen ersten Kundenprojekten. Schau gerne bald wieder vorbei."
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Lass uns dein Projekt besprechen",
+    "subtitle": "Erzähl mir von deiner Idee – ich melde mich zeitnah bei dir zurück.",
+    "channelsTitle": "Direkter Kontakt",
+    "email": "E-Mail",
+    "telegram": "Telegram",
+    "instagram": "Instagram",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "projectType": "Projektart",
+      "projectTypePlaceholder": "z. B. Business-Website, Landingpage, Online-Shop ...",
+      "budget": "Ungefähres Budget",
+      "budgetPlaceholder": "z. B. 80–200 €",
+      "message": "Nachricht",
+      "messagePlaceholder": "Erzähl mir kurz von deinem Projekt ...",
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet ...",
+      "errorRequired": "Dieses Feld ist erforderlich.",
+      "errorEmail": "Bitte gib eine gültige E-Mail-Adresse ein.",
+      "notConnectedTitle": "Formular noch nicht verbunden",
+      "notConnectedText": "Dieses Kontaktformular ist aktuell noch nicht mit einem Versanddienst verbunden. Um es funktionsfähig zu machen, wird ein Formular-Service (z. B. Formspree, EmailJS) oder ein eigenes Backend benötigt. Bitte kontaktiere mich in der Zwischenzeit direkt per E-Mail."
+    }
+  },
+  "footer": {
+    "tagline": "Webentwicklung mit Fokus auf Qualität und Individualität.",
+    "rights": "Alle Rechte vorbehalten.",
+    "legal": { "imprint": "Impressum", "privacy": "Datenschutzerklärung" }
+  }
+}

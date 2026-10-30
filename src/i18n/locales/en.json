@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Oleksandr Kravchenko — Web Developer for Modern Websites",
+    "description": "Modern, fast and professional websites for businesses, restaurants and freelancers. Individual offers starting at €80."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "cta": "Start a Project"
+  },
+  "hero": {
+    "eyebrow": "Web development focused on quality",
+    "headlineLine1": "Modern websites",
+    "headlineLine2": "that move your business forward.",
+    "subtext": "I build modern, fast and professional websites for businesses, restaurants and freelancers.",
+    "ctaPrimary": "Start a Project",
+    "ctaSecondary": "My Services",
+    "tag1": "Responsive Design",
+    "tag2": "Fast Load Times",
+    "tag3": "Tailored Development"
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "What I build for you",
+    "subtitle": "Tailored web solutions — from a simple landing page to a full online shop.",
+    "business": {
+      "title": "Business Websites",
+      "desc": "Professional websites for companies and small businesses that build trust and convince customers."
+    },
+    "landing": {
+      "title": "Landing Pages",
+      "desc": "Modern landing pages designed to generate inquiries and conversions."
+    },
+    "restaurant": {
+      "title": "Restaurant Websites",
+      "desc": "Websites for restaurants, cafés and local businesses — including menus and contact details."
+    },
+    "shop": {
+      "title": "Online Shops",
+      "desc": "Modern e-commerce websites to sell your products successfully."
+    }
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Transparent and fair",
+    "subtitle": "Websites starting at €80 — individual pricing depending on project scope and complexity. The final price is negotiable.",
+    "note": "Every project is unique. After a short conversation about your needs, you'll receive an individual, no-obligation offer.",
+    "basic": {
+      "name": "Basic",
+      "price": "from €80",
+      "desc": "Ideal for a simple single-page online presence.",
+      "features": ["Single-page website", "Responsive design", "Contact form", "Basic SEO setup"]
+    },
+    "business": {
+      "name": "Business",
+      "price": "Individual price",
+      "desc": "For companies needing multiple pages and extended functionality.",
+      "features": ["Multi-page website", "Custom design", "Multilingual option", "Extended features as needed"]
+    },
+    "custom": {
+      "name": "Custom",
+      "price": "Individual offer",
+      "desc": "For complex projects such as online shops or custom applications.",
+      "features": ["Online shop or web app", "Tailor-made functionality", "Scalable architecture", "Personal consultation"]
+    },
+    "cta": "Request an Offer",
+    "popular": "Popular"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Who I am",
+    "text": "I'm Oleksandr Kravchenko and I focus on building modern websites. My goal is to help businesses and freelancers present themselves professionally online.",
+    "point1": { "title": "Modern Technologies", "desc": "I work with current tools and technologies in web development." },
+    "point2": { "title": "Attention to Detail", "desc": "Every detail matters — from structure to the final pixel." },
+    "point3": { "title": "Individual Approach", "desc": "Every project is planned and built individually." },
+    "point4": { "title": "Continuous Growth", "desc": "I'm constantly learning to offer up-to-date solutions." }
+  },
+  "portfolio": {
+    "eyebrow": "Portfolio",
+    "title": "Selected Projects",
+    "subtitle": "Future projects I've worked on will be showcased here.",
+    "emptyTitle": "New projects coming soon.",
+    "emptyText": "I'm currently working on my first client projects. Check back soon."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's talk about your project",
+    "subtitle": "Tell me about your idea — I'll get back to you soon.",
+    "channelsTitle": "Direct Contact",
+    "email": "Email",
+    "telegram": "Telegram",
+    "instagram": "Instagram",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "projectType": "Project Type",
+      "projectTypePlaceholder": "e.g. business website, landing page, online shop ...",
+      "budget": "Approximate Budget",
+      "budgetPlaceholder": "e.g. €80–200",
+      "message": "Message",
+      "messagePlaceholder": "Tell me briefly about your project ...",
+      "submit": "Send Message",
+      "sending": "Sending ...",
+      "errorRequired": "This field is required.",
+      "errorEmail": "Please enter a valid email address.",
+      "notConnectedTitle": "Form not yet connected",
+      "notConnectedText": "This contact form isn't connected to a sending service yet. To make it functional, a form service (e.g. Formspree, EmailJS) or a custom backend is needed. In the meantime, please contact me directly by email."
+    }
+  },
+  "footer": {
+    "tagline": "Web development focused on quality and individuality.",
+    "rights": "All rights reserved.",
+    "legal": { "imprint": "Imprint", "privacy": "Privacy Policy" }
+  }
+}
